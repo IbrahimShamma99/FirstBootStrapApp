@@ -1,5 +1,24 @@
 The term "viewport" refers to the
 available display size to render
 the contents of a page.
+viewport meta tag allows you to
+define this available size.
+
+Furthermore, ensuring that your scripts are 
+loaded last will ensure that once you invoke
+Document Object Model (DOM) operations in your 
+scripts, you can be sure that your page's 
+elements have already been rendered.
+
+What is a Content Delivery
+Network?
+The objective behind any
+Content Delivery Network
+(CDN) is to provide users with
+content that is highly available.
 
 
+Bootstrap has 3 directories 
+1-(dist) Typically, the distribution directory contains
+the production-ready code that users can
+deploy.

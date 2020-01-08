@@ -1,0 +1,23 @@
+{
+  "name": "firstbootstrapapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimShamma99/FirstBootStrapApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimShamma99/FirstBootStrapApp/issues"
+  },
+  "homepage": "https://github.com/IbrahimShamma99/FirstBootStrapApp#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
